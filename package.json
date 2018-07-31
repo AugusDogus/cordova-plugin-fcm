@@ -7,12 +7,8 @@
   "repo": "",
   "issue": "",
   "author": {
-    "name": "Felipe Echanique Torres",
-    "email": "felipe.echanique@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fechanique/cordova-plugin-fcm"
+    "name": "Augie Luebbers",
+    "email": "bal23@students.uwf.edu"
   },
   "keywords": [
     "ecosystem:cordova",
